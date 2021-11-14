@@ -1,6 +1,10 @@
-# Terraform Provider Scaffolding
+# Terraform Provider for TestRail Server
 
-This repository is a *template* for a [Terraform](https://www.terraform.io) provider. It is intended as a starting point for creating Terraform providers, containing:
+
+
+## Terraform Provider Scaffolding
+
+This repository is a starting point for creating Terraform providers, containing:
 
  - A resource, and a data source (`internal/provider/`),
  - Examples (`examples/`) and generated documentation (`docs/`),
