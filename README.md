@@ -1,4 +1,4 @@
-# Terraform Provider for TestRail Server
+# Terraform Provider for TestRail Server - POC
 
 
 
